@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CERT-SE:s veckobrev v.41 −
+    www.cert.se    
+    </title>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+    
+        <link rel="stylesheet" media="screen" href=/static/css/certse.min.css?3449727a charset="utf-8" />
+    
+
+    
+
+
+</head>
+
+<body>
+
+    <header role="banner" class="shadow">
+        <div id="logo_mainnav">        
+	        <p id="logo">
+                <a title="Gå till CERT-SE:s förstasida" href="/"><img src="/static/img/cert-se.svg" alt="[CERT-SE]" /></a>
+            </p>
+            <nav id="mainnav">
+            <ul>
+                <li id="omoss" class="divider"><a href="/om-cert-se" title="Om CERT-SE">Om CERT-SE</a></li>
+                <li id="karta" class="divider"><a href="/webbkarta" title="Webbkarta">Webbkarta</a></li>
+                <li id="sok" class="divider"><a href="/sok" title="Sök">Sök</a></li>
+                <li id="Om cookies" class="divider"><a href="/om-cookies" title="Om cookies">Om cookies</a></li>
+                <li id="tillganglighetsredogorelse" class="divider"><a href="/tillganglighetsredogorelse" title="Tillgänglighetsredogörelse">Tillgänglighetsredogörelse</a></li>
+            </ul>
+            </nav>
+        </div>
+        <p id="logo_msb" class="divider">
+                    <a title="G&aring; till MSB:s webbsida" href="http://www.msb.se" target="_blank"><img class="imgLink" src="/static/img/msb.svg" alt="[MSB]" /></a>
+        </p>
+    </header>
+
+    <div id="gotIE6">
+        Som du ser är vår webbplats inte anpassad för äldre webbläsare. Vi rekommenderar att du uppgraderar till en nyare webbläsare.
+    </div>
+
+    
+    
+
+
+    <div id="alertBox" class="shadow">
+            <div id="alertBox_title">!!</div>
+            <div id="alertBox_text"><p>Vi söker <a href="https://msb.varbi.com/se/what:job/jobID:661751/type:job/where:4/apply:1">chef till Enheten för operativ cybersäkerhetsförmåga</a>, en viktig roll i arbetet med att utveckla Sveriges förmåga att förebygga och hantera it-incidenter. Sista ansökningsdag är den 19 oktober.</p></div>
+    </div>
+
+
+
+
+    <div id="columns">
+        
+<div id="main_content" class="shadow">
+    <article id="content">
+        <header>
+            <p class="info">
+                
+                    Publicerad <time datetime="2023-10-13T13:40:27+02:00">2023-10-13 13:40</time>
+                
+                <span id="tags">                       
+                     - <a href="/nyckelord/Veckobrev/">Veckobrev</a>
+                    </span>
+            </p>
+            <h1>CERT-SE:s veckobrev v.41</h1>
+        </header>
+        <p>Patchtisdag firar 20 år denna månad! Vi hoppas att detta firas med extra mycket patchning. Titta gärna på de artiklar som vi på CERT-SE publicerat denna vecka med information om kritiska sårbarheter i produkter från flera tillverkare.</p>
+<p>Trevlig helg önskar CERT-SE!</p>
+<h2>Nyheter i veckan</h2>
+<p>Genetics firm 23andMe says user data stolen in credential stuffing attack (6 okt)<br />
+<a href="https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/">https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/</a></p>
+<p>Manufacturing services tech giant hit with cyberattack (10 okt)<br />
+<a href="https://therecord.media/manufacturing-giant-hit-with-cyberattack">https://therecord.media/manufacturing-giant-hit-with-cyberattack</a></p>
+<p>Air Europa customers urged to cancel cards following hack on payment system (10 okt)<br />
+<a href="https://therecord.media/air-europa-cyberattack-payment-cards">https://therecord.media/air-europa-cyberattack-payment-cards</a></p>
+<p>Finnish websites hit by more cyberattacks (11 okt)<br />
+<a href="https://yle.fi/a/74-20054766">https://yle.fi/a/74-20054766</a></p>
+<p>SEC is investigating MOVEit mass-hack, says Progress Software (11 okt)<br />
+<a href="https://techcrunch.com/2023/10/11/sec-is-investigating-moveit-mass-hack-says-progress-software/">https://techcrunch.com/2023/10/11/sec-is-investigating-moveit-mass-hack-says-progress-software/</a></p>
+<p>Manufacturing giant dealing with ‘disruptive’ cyberattack (12 okt)<br />
+<a href="https://therecord.media/manufacturing-giant-dealing-with-disruptive-cyberattack">https://therecord.media/manufacturing-giant-dealing-with-disruptive-cyberattack</a></p>
+<p>Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack (12 okt)<br />
+<a href="https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html">https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html</a></p>
+<h2>Rapporter och analyser</h2>
+<p>The Art of Concealment: A New Magecart Campaign That’s Abusing 404 Pages (9 okt)<br />
+<a href="https://www.akamai.com/blog/security-research/magecart-new-technique-404-pages-skimmer">https://www.akamai.com/blog/security-research/magecart-new-technique-404-pages-skimmer</a></p>
+<p>Patch Now: Massive RCE Campaign Wrangles Routers Into Botnet (9 okt)<br />
+<a href="https://www.darkreading.com/cloud/patch-now-massive-rce-campaign-d-link-zyxel-botnet">https://www.darkreading.com/cloud/patch-now-massive-rce-campaign-d-link-zyxel-botnet</a></p>
+<p>Microsoft Digital Defense Report 2023 (10 okt)<br />
+<a href="https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023">https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023</a></p>
+<p>StopRansomware: AvosLocker Ransomware (Update) (11 okt)<br />
+<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-284a">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-284a</a></p>
+<p>Resurgence of LinkedIn Smart Links Identified in Sizable Credential Phishing Campaign (11 okt)<br />
+<a href="https://cofense.com/blog/linkedin-smart-links-credential-phishing-campaign/">https://cofense.com/blog/linkedin-smart-links-credential-phishing-campaign/</a></p>
+<p>Hackers will use AI to orchestrate worldwide cyberattacks (12 okt)<br />
+<a href="https://macleans.ca/society/technology/ai-cyberattacks/">https://macleans.ca/society/technology/ai-cyberattacks/</a></p>
+<p>NSA releases a repository of signatures and analytics to secure Operational Technology (12 okt)<br />
+<a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3554537/nsa-releases-a-repository-of-signatures-and-analytics-to-secure-operational-tec/">https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3554537/nsa-releases-a-repository-of-signatures-and-analytics-to-secure-operational-tec/</a></p>
+<p>Ransomware attacks now target unpatched WS_FTP servers (12 okt)<br />
+<a href="https://www.bleepingcomputer.com/news/security/ransomware-attacks-now-target-unpatched-ws-ftp-servers/">https://www.bleepingcomputer.com/news/security/ransomware-attacks-now-target-unpatched-ws-ftp-servers/</a></p>
+<p>Phishing, the campaigns that are targeting Italy (12 okt)<br />
+<a href="https://securityaffairs.com/152372/cyber-crime/phishing-campaigns-targt-italy.html">https://securityaffairs.com/152372/cyber-crime/phishing-campaigns-targt-italy.html</a></p>
+<p>DarkGate Opens Organizations for Attack via Skype, Teams (12 okt)<br />
+<a href="https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html">https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html</a></p>
+<p>Ransomware Roundup - Akira (12 okt)<br />
+<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira">https://www.fortinet.com/blog/threat-research/ransomware-roundup-akira</a></p>
+<p>ToddyCat: Keep calm and check logs (12 okt)<br />
+<a href="https://securelist.com/toddycat-keep-calm-and-check-logs/110696/">https://securelist.com/toddycat-keep-calm-and-check-logs/110696/</a></p>
+<p>Shadow PC warns of data breach as hacker tries to sell gamers' info (12 okt)<br />
+<a href="https://www.bleepingcomputer.com/news/security/shadow-pc-warns-of-data-breach-as-hacker-tries-to-sell-gamers-info/">https://www.bleepingcomputer.com/news/security/shadow-pc-warns-of-data-breach-as-hacker-tries-to-sell-gamers-info/</a></p>
+<p>ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers (12 okt)<br />
+<a href="https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html">https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html</a></p>
+<h2>Informationssäkerhet och övrigt</h2>
+<p>Så fungerar de nya digitala id-korten – bilden förfalskades på några minuter (8 okt)<br />
+<a href="https://www.dn.se/ekonomi/sa-fungerar-de-nya-digitala-id-korten-bilden-forfalskades-pa-nagra-minuter/">https://www.dn.se/ekonomi/sa-fungerar-de-nya-digitala-id-korten-bilden-forfalskades-pa-nagra-minuter/</a></p>
+<p>Finlands andra kvantdator invigs – körs i 273 minusgrader (10 okt)<br />
+<a href="https://svenska.yle.fi/a/7-10043189">https://svenska.yle.fi/a/7-10043189</a></p>
+<p>CISA, Government, and Industry Partners Publish Fact Sheet for Organizations Using Open Source Software (10 okt)<br />
+<a href="https://www.cisa.gov/news-events/news/cisa-government-and-industry-partners-publish-fact-sheet-organizations-using-open-source-software">https://www.cisa.gov/news-events/news/cisa-government-and-industry-partners-publish-fact-sheet-organizations-using-open-source-software</a></p>
+<p>Svenskarna och internet 2023 (10 okt)<br />
+<a href="https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2023/">https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2023/</a></p>
+<p>From chaos to cadence: Celebrating two decades of Microsoft's Patch Tuesday (11 okt)<br />
+<a href="https://www.theregister.com/2023/10/11/microsoft_patch_tuesday_turns_20/">https://www.theregister.com/2023/10/11/microsoft_patch_tuesday_turns_20/</a></p>
+<p>Sverige ska få fler cyberexperter – ”finns stort behov” (12 okt)<br />
+<a href="https://sverigesradio.se/artikel/sverige-ska-fa-fler-cyberexperter-finns-stort-behov">https://sverigesradio.se/artikel/sverige-ska-fa-fler-cyberexperter-finns-stort-behov</a></p>
+<p>Riksrevisionens rapport om regeringens styrning av samhällets informations- och cybersäkerhet (12 okt)<br />
+<a href="https://www.regeringen.se/rattsliga-dokument/skrivelse/2023/10/skr.-20232426">https://www.regeringen.se/rattsliga-dokument/skrivelse/2023/10/skr.-20232426</a></p>
+<p>Ransomlooker, a new tool to track and analyze ransomware groups’ activities (12 okt)<br />
+<a href="https://securityaffairs.com/152416/malware/ransomlooker-tool.html">https://securityaffairs.com/152416/malware/ransomlooker-tool.html</a></p>
+<p>CISA Releases New Resources Identifying Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware (12 okt)<br />
+<a href="https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked">https://www.cisa.gov/news-events/alerts/2023/10/12/cisa-releases-new-resources-identifying-known-exploited-vulnerabilities-and-misconfigurations-linked</a></p>
+<h2>CERT-SE i veckan</h2>
+<p><a href="/2023/10/allvarlig-sarbarhet-i-linuxkomponent">Allvarlig sårbarhet i Linuxkomponent (uppdaterad 2023-10-13)</a></p>
+<p><a href="/2023/10/juniper-networks-rattar-flera-allvarliga-sarbarheter">Juniper Networks rättar flera allvarliga sårbarheter</a></p>
+<p><a href="/2023/10/f5-networks-rattar-kritisk-sarbarhet-i-big-ip">F5 Networks rättar kritisk sårbarhet i BIG-IP</a></p>
+<p><a href="/2023/10/adobes-manatliga-sakerhetsuppdateringar-for-oktober-2023">Adobes månatliga säkerhetsuppdateringar för oktober 2023</a></p>
+<p><a href="/2023/10/http2-rapid-reset-kritisk-sarbarhet-som-kan-utnyttjas-for-stora-overbelastningsangrepp">HTTP2 Rapid Reset: kritisk sårbarhet som kan utnyttjas för stora överbelastningsangrepp</a></p>
+<p><a href="/2023/10/flera-sarbarheter-i-citrix-netscaler-adc-och-netscaler-gateway">Flera sårbarheter i Citrix Netscaler ADC och Netscaler Gateway</a></p>
+<p><a href="/2023/10/allvarlig-sarbarhet-i-curl">Allvarlig sårbarhet i curl</a></p>
+<p><a href="/2023/10/microsofts-manatliga-sakerhetsuppdateringar-for-oktober-2023">Microsofts månatliga säkerhetsuppdateringar för oktober 2023</a></p>
+    </article>
+</div>
+
+<aside id="related" class="shadow">
+
+
+<h2>Senaste nyheter</h2>
+<p class="subhead hdivider">För att hitta äldre nyheter använd <a href="/arkiv">Nyhetsarkivet</a> eller vår <a href="/sok">sökfunktion</a>.</p>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T13:40:27+02:00">2023-10-13 13:40</time></p>
+<a href="/2023/10/cert-se-s-veckobrev-v-41">
+<h3>CERT-SE:s veckobrev v.41</h3>
+  Patchtisdag firar 20 år denna månad! Vi hoppas att detta firas med extra mycket patchning. Titta gärna på de artiklar som vi på CERT-SE publicerat denna vecka med information om kritiska sårbarheter i produkter från flera tillverkare.</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T13:20:33+02:00">2023-10-13 13:20</time></p>
+<a href="/2023/10/allvarlig-sarbarhet-i-linuxkomponent">
+<h3>Allvarlig sårbarhet i Linuxkomponent (uppdaterad 2023-10-13)</h3>
+  En buffertöverskridning i ld.so, som är en del av GNU C Library (glibc), har upptäckts. Ett lyckat utnyttjande möjliggör för en angripare att tillskansa sig root-rättigheter. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T10:43:34+02:00">2023-10-13 10:43</time></p>
+<a href="/2023/10/juniper-networks-rattar-flera-allvarliga-sarbarheter">
+<h3>Juniper Networks rättar flera allvarliga sårbarheter</h3>
+  I samband med patchtisdag rättade Juniper Networks ett 30-tal sårbarheter i Junos OS. Nio av sårbarheterna är klassade som allvarliga och flera av dem kan leda till instabilitet i systemet eller otillgänlighet. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-12T15:47:00+02:00">2023-10-12 15:47</time></p>
+<a href="/2023/10/f5-networks-rattar-kritisk-sarbarhet-i-big-ip">
+<h3>F5 Networks rättar kritisk sårbarhet i BIG-IP</h3>
+  Som en del av sina månatliga säkerhetsuppdateringar för oktober, rättar F5 Networks en sårbarhet i BIG-IP som under vissa förutsättningar är kritisk. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-12T10:56:56+02:00">2023-10-12 10:56</time></p>
+<a href="/2023/10/kritisk-0-day-sarbarhet-i-confluence-utnyttjas-aktivt">
+<h3>Kritisk 0-day-sårbarhet i Confluence utnyttjas aktivt (uppdaterad 2023-10-12)</h3>
+  Atlassian har tillkännagett en kritisk sårbarhet i Confluence Data Center och Server, som har tilldelats högsta CVSS-klassificering 10.0.</a>
+</article>
+
+<div id="subscribe">Prenumerera på <a href="/feed.rss">RSS</a>/<a href="/feed.atom">Atom</a></div>
+</aside>
+
+
+    </div>
+   
+    <footer id="pagefooter" class="shadow">        
+	    <div id="page_footer_info">
+            <address>
+                CERT-SE<br />
+		Telefon: <a href="tel:+46-10-2404040">010-240 40 40</a><br />
+                alt. <a href="tel:+46-8-6785799">08-678 57 99</a><br />
+                Presstjänst: <a href="tel:+46-10-2404444">010-240 44 44</a><br />
+                E-post: <a href="mailto:cert@cert.se">cert@cert.se</a> - <a href="https://www.cert.se/cert_at_cert.se.asc">PGP-nyckel</a><br /> 
+            </address>
+        </div>
+        <div id="page_footer_logos" class="divider">
+                <img src="/static/img/logos.png" alt="[FiRST][TI]" />
+        </div>
+    </footer>
+
+    
+<!--[if lt IE 8]>
+<script>
+    document.getElementById('gotIE6').style.display = "block";
+</script>
+<![endif]-->
+
+
+<script src="/static/js/general.js?d60b3a7e"></script>
+
+
+ 
+
+</body>
+</html>
