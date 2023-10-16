@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CERT-SE:s veckobrev v.40 −
+    www.cert.se    
+    </title>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+    
+        <link rel="stylesheet" media="screen" href=/static/css/certse.min.css?3449727a charset="utf-8" />
+    
+
+    
+
+
+</head>
+
+<body>
+
+    <header role="banner" class="shadow">
+        <div id="logo_mainnav">        
+	        <p id="logo">
+                <a title="Gå till CERT-SE:s förstasida" href="/"><img src="/static/img/cert-se.svg" alt="[CERT-SE]" /></a>
+            </p>
+            <nav id="mainnav">
+            <ul>
+                <li id="omoss" class="divider"><a href="/om-cert-se" title="Om CERT-SE">Om CERT-SE</a></li>
+                <li id="karta" class="divider"><a href="/webbkarta" title="Webbkarta">Webbkarta</a></li>
+                <li id="sok" class="divider"><a href="/sok" title="Sök">Sök</a></li>
+                <li id="Om cookies" class="divider"><a href="/om-cookies" title="Om cookies">Om cookies</a></li>
+                <li id="tillganglighetsredogorelse" class="divider"><a href="/tillganglighetsredogorelse" title="Tillgänglighetsredogörelse">Tillgänglighetsredogörelse</a></li>
+            </ul>
+            </nav>
+        </div>
+        <p id="logo_msb" class="divider">
+                    <a title="G&aring; till MSB:s webbsida" href="http://www.msb.se" target="_blank"><img class="imgLink" src="/static/img/msb.svg" alt="[MSB]" /></a>
+        </p>
+    </header>
+
+    <div id="gotIE6">
+        Som du ser är vår webbplats inte anpassad för äldre webbläsare. Vi rekommenderar att du uppgraderar till en nyare webbläsare.
+    </div>
+
+    
+    
+
+
+    <div id="alertBox" class="shadow">
+            <div id="alertBox_title">!!</div>
+            <div id="alertBox_text"><p>Vi söker <a href="https://msb.varbi.com/se/what:job/jobID:661751/type:job/where:4/apply:1">chef till Enheten för operativ cybersäkerhetsförmåga</a>, en viktig roll i arbetet med att utveckla Sveriges förmåga att förebygga och hantera it-incidenter. Sista ansökningsdag är den 19 oktober.</p></div>
+    </div>
+
+
+
+
+    <div id="columns">
+        
+<div id="main_content" class="shadow">
+    <article id="content">
+        <header>
+            <p class="info">
+                
+                    Publicerad <time datetime="2023-10-06T14:44:48+02:00">2023-10-06 14:44</time>
+                
+                <span id="tags">                       
+                     - <a href="/nyckelord/Veckobrev/">Veckobrev</a>
+                    </span>
+            </p>
+            <h1>CERT-SE:s veckobrev v.40</h1>
+        </header>
+        <p>Cybersäkerhetsmånaden har snart pågått i en vecka. Flera bra initiativ finns med målsättning att höja medvetenheten och kompetensen hos privatpersoner och organisationer för säker närvaro online. </p>
+<p><a href="https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/informationssakerhetsmanaden/">Tänk Säkert!</a> är kampanjen som genomförs i samverkan mellan svenska myndigheter och organisationer.</p>
+<p><a href="https://www.cert.se/2023/09/cert-se-ctf2023">Antar du CERT-SE:s utmaning?</a> eller läs om det europeiska iniitativet <a href="https://cybersecuritymonth.eu/">#BeSmarterThanAHacker</a>.</p>
+<p>Trevlig helg!</p>
+<h2>Nyheter i veckan</h2>
+<p>Cloudflare DDoS protections ironically bypassed using Cloudflare (30 sep)<br />
+<a href="https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/">https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/</a></p>
+<p>Praoelevers uppgifter kan ha läckt efter stort intrång (2 okt)<br />
+<a href="https://www.dn.se/sverige/praoelevers-uppgifter-kan-ha-lackt-efter-stort-intrang/">https://www.dn.se/sverige/praoelevers-uppgifter-kan-ha-lackt-efter-stort-intrang/</a></p>
+<p>FBI Warns of Dual Ransomware Attacks and Data Destruction Trends (2 okt)<br />
+<a href="https://www.infosecurity-magazine.com/news/fbi-warns-dual-ransomware-data/">https://www.infosecurity-magazine.com/news/fbi-warns-dual-ransomware-data/</a></p>
+<p>BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground (2 okt)<br />
+<a href="https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html">https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html</a></p>
+<p>Nederländerna varnar för solcellsanläggningar – risk även i Sverige (3 okt)<br />
+<a href="https://sverigesradio.se/artikel/nederlanderna-varnar-for-solpaneler-risk-aven-i-sverige">https://sverigesradio.se/artikel/nederlanderna-varnar-for-solpaneler-risk-aven-i-sverige</a></p>
+<p>CISA and NSA Release New Guidance on Identity and Access Management (4 okt)<br />
+<a href="https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management">https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-and-nsa-release-new-guidance-identity-and-access-management</a></p>
+<p>Police Issue “Quishing” Email Warning (4 okt)<br />
+<a href="https://www.infosecurity-magazine.com/news/police-issue-quishing-email-warning/">https://www.infosecurity-magazine.com/news/police-issue-quishing-email-warning/</a></p>
+<p>CERT-In issues alert against LuaDream info-stealing malware (4 okt)<br />
+<a href="https://www.thehindu.com/sci-tech/technology/cert-in-alert-against-luadream-malware/article67379383.ece">https://www.thehindu.com/sci-tech/technology/cert-in-alert-against-luadream-malware/article67379383.ece</a></p>
+<p>Check Point discovers new phishing scam on Dropbox (4 okt)<br />
+<a href="https://securitybrief.co.nz/story/check-point-discovers-new-phishing-scam-on-dropbox">https://securitybrief.co.nz/story/check-point-discovers-new-phishing-scam-on-dropbox</a></p>
+<p>Cyberattack on British telecom Lyca prevented customers from making calls, topping up (4 okt)<br />
+<a href="https://therecord.media/cyberattack-on-lyca-stops-calls">https://therecord.media/cyberattack-on-lyca-stops-calls</a></p>
+<p>NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations (5 okt)<br />
+<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a</a></p>
+<p>Bugg i datasystem – brottsoffers personnummer har läckt (5 okt)<br />
+<a href="https://sverigesradio.se/artikel/bugg-i-datasystem-brottsoffers-personnummer-har-lackt">https://sverigesradio.se/artikel/bugg-i-datasystem-brottsoffers-personnummer-har-lackt</a></p>
+<p>NATO Probes Cyberattack Linked to Stolen Strategic Documents (5 okt)<br />
+<a href="https://www.thedefensepost.com/2023/10/05/nato-cyberattack-stolen-strategic-documents/">https://www.thedefensepost.com/2023/10/05/nato-cyberattack-stolen-strategic-documents/</a></p>
+<p>Curl 8.4.0 – Proactively Identifying Potential Vulnerable Assets (5 okt)<br />
+<a href="https://blog.qualys.com/vulnerabilities-threat-research/2023/10/05/curl-8-4-0-proactively-identifying-potential-vulnerable-assets">https://blog.qualys.com/vulnerabilities-threat-research/2023/10/05/curl-8-4-0-proactively-identifying-potential-vulnerable-assets</a></p>
+<p>Cyber criminals access hospital patient information (5 okt)<br />
+<a href="https://www.canberratimes.com.au/story/8375849/cyber-criminals-access-hospital-patient-information/">https://www.canberratimes.com.au/story/8375849/cyber-criminals-access-hospital-patient-information/</a></p>
+<p>Sony Confirms Data Stolen in Two Recent Hacker Attacks (5 okt)<br />
+<a href="https://www.securityweek.com/sony-confirms-data-stolen-in-two-recent-hacker-attacks/">https://www.securityweek.com/sony-confirms-data-stolen-in-two-recent-hacker-attacks/</a></p>
+<p>Several Finnish websites report cyber-attacks (5 okt)<br />
+<a href="https://yle.fi/a/74-20053726">https://yle.fi/a/74-20053726</a><br />
+..<br />
+DoS attack hits Helsinki public transit app (6 okt)<br />
+<a href="https://yle.fi/a/74-20053889">https://yle.fi/a/74-20053889</a></p>
+<h3>Rapporter</h3>
+<p>Malicious Packages Hidden in NPM (2 okt)<br />
+<a href="https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm">https://www.fortinet.com/blog/threat-research/malicious-packages-hiddin-in-npm</a></p>
+<p>Bitsight identifies nearly 100,000 exposed industrial control systems (2 okt)<br />
+<a href="https://www.bitsight.com/blog/bitsight-identifies-nearly-100000-exposed-industrial-control-systems">https://www.bitsight.com/blog/bitsight-identifies-nearly-100000-exposed-industrial-control-systems</a></p>
+<p>Defending new vectors: Threat actors attempt SQL Server to cloud lateral movement (3 okt)<br />
+<a href="https://www.microsoft.com/en-us/security/blog/2023/10/03/defending-new-vectors-threat-actors-attempt-sql-server-to-cloud-lateral-movement/">https://www.microsoft.com/en-us/security/blog/2023/10/03/defending-new-vectors-threat-actors-attempt-sql-server-to-cloud-lateral-movement/</a></p>
+<p>DRM Report Q2 2023 – Ransomware threat landscape (4 okt)<br />
+<a href="https://securityaffairs.com/151925/reports/drm-report-q2-2023-ransomware.html">https://securityaffairs.com/151925/reports/drm-report-q2-2023-ransomware.html</a></p>
+<p>Microsoft Digital Defense Report 2023 <br />
+<a href="https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023">https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023</a></p>
+<p>Qakbot-affiliated actors distribute Ransom Knight malware despite infrastructure takedown (5 okt)<br />
+<a href="https://blog.talosintelligence.com/qakbot-affiliated-actors-distribute-ransom/">https://blog.talosintelligence.com/qakbot-affiliated-actors-distribute-ransom/</a></p>
+<p>Let's dig deeper: dissecting the new Android Trojan GoldDigger with Group-IB Fraud Matrix (5 okt)<br />
+<a href="https://www.group-ib.com/blog/golddigger-fraud-matrix/">https://www.group-ib.com/blog/golddigger-fraud-matrix/</a></p>
+<h2>Informationssäkerhet och blandat</h2>
+<p>Opinion | Nikka: Regeringen förespråkar mass­övervakning med Chat Control (21 sep) <br />
+<a href="https://www.pcforalla.se/article/2078314/regeringen-foresprakar-massovervakning-med-chat-control.html">https://www.pcforalla.se/article/2078314/regeringen-foresprakar-massovervakning-med-chat-control.html</a></p>
+<p>BLUE OLEX 2023: Getting Ready for the Next Cybersecurity Crisis in the EU (2 okt)<br />
+<a href="https://www.enisa.europa.eu/news/blue-olex-2023-getting-ready-for-the-next-cybersecurity-crisis-in-the-eu">https://www.enisa.europa.eu/news/blue-olex-2023-getting-ready-for-the-next-cybersecurity-crisis-in-the-eu</a></p>
+<p>Joint Letter of Experts on CRA and Vulnerability Disclosure (3 okt)<br />
+<a href="https://www.centerforcybersecuritypolicy.org/insights-and-research/joint-letter-of-experts-on-cra-and-vulnerability-disclosure">https://www.centerforcybersecuritypolicy.org/insights-and-research/joint-letter-of-experts-on-cra-and-vulnerability-disclosure</a></p>
+<p>Quishing Triage 101: How to Investigate Suspicious QR Codes in Emails (4 okt)<br />
+<a href="https://intezer.com/blog/alert-triage/quishing-triage-how-to-investigate-suspicious-qr-codes-in-emails/">https://intezer.com/blog/alert-triage/quishing-triage-how-to-investigate-suspicious-qr-codes-in-emails/</a></p>
+<p>Moderna bilar riskerar att användas för spionage (4 okt)<br />
+<a href="https://sverigesradio.se/artikel/moderna-bilar-riskerar-att-anvandas-for-spionage">https://sverigesradio.se/artikel/moderna-bilar-riskerar-att-anvandas-for-spionage</a></p>
+<p>Could Cybersecurity Breaches Become Harmless in the Future? (5 okt)<br />
+<a href="https://www.darkreading.com/vulnerabilities-threats/could-cybersecurity-breaches-become-harmless-in-the-future-">https://www.darkreading.com/vulnerabilities-threats/could-cybersecurity-breaches-become-harmless-in-the-future-</a></p>
+<p>LLMs lower the barrier for entry into cybercrime (5 okt)<br />
+<a href="https://www.helpnetsecurity.com/2023/10/05/traditional-perimeter-detection/">https://www.helpnetsecurity.com/2023/10/05/traditional-perimeter-detection/</a></p>
+<p>Addressing the People Problem in Cybersecurity (5 okt)<br />
+<a href="https://www.securityweek.com/addressing-the-people-problem-in-cybersecurity/">https://www.securityweek.com/addressing-the-people-problem-in-cybersecurity/</a></p>
+<h3>Cybersäkerhetsmånanden</h3>
+<p>CISA Kicks Off 20th Anniversary of Cybersecurity Awareness Month with New Public Awareness Campaign to Secure Our World (28 sep)<br />
+<a href="https://www.cisa.gov/news-events/news/cisa-kicks-20th-anniversary-cybersecurity-awareness-month-new-public-awareness-campaign">https://www.cisa.gov/news-events/news/cisa-kicks-20th-anniversary-cybersecurity-awareness-month-new-public-awareness-campaign</a><br />
+..<br />
+<a href="https://www.cisa.gov/cybersecurity-awareness-month">https://www.cisa.gov/cybersecurity-awareness-month</a></p>
+<p>Kampanjen "Tänk säkert!"<br />
+<a href="https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/informationssakerhetsmanaden/">https://www.msb.se/sv/amnesomraden/informationssakerhet-cybersakerhet-och-sakra-kommunikationer/informationssakerhetsmanaden/</a></p>
+<p>European Cyber Security Month - ECSM<br />
+<a href="https://cybersecuritymonth.eu/">https://cybersecuritymonth.eu/</a></p>
+<h2>CERT-SE i veckan</h2>
+<p><a href="/2023/10/kritisk-sarbarhet-i-cisco-emergency-responder">Kritisk sårbarhet i Cisco Emergency Responder</a></p>
+<p><a href="/2023/10/allvarlig-sarbarhet-i-libweb-biblioteket-for-webp">Allvarlig sårbarhet i libweb-biblioteket för WebP utnyttjas aktivt</a></p>
+<p><a href="/2023/10/kritisk-0-day-sarbarhet-i-confluence-utnyttjas-aktivt">Kritisk 0-day-sårbarhet i Confluence utnyttjas aktivt</a></p>
+<p><a href="/2023/10/allvarlig-sarbarhet-i-linuxkomponent">Allvarlig sårbarhet i Linuxkomponent</a></p>
+<p><a href="/2023/09/nolldagssarbarhet-i-exim">Nolldagssårbarhet i Exim (uppdaterad 2023-10-03)</a></p>
+    </article>
+</div>
+
+<aside id="related" class="shadow">
+
+
+<h2>Senaste nyheter</h2>
+<p class="subhead hdivider">För att hitta äldre nyheter använd <a href="/arkiv">Nyhetsarkivet</a> eller vår <a href="/sok">sökfunktion</a>.</p>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T13:40:27+02:00">2023-10-13 13:40</time></p>
+<a href="/2023/10/cert-se-s-veckobrev-v-41">
+<h3>CERT-SE:s veckobrev v.41</h3>
+  Patchtisdag firar 20 år denna månad! Vi hoppas att detta firas med extra mycket patchning. Titta gärna på de artiklar som vi på CERT-SE publicerat denna vecka med information om kritiska sårbarheter i produkter från flera tillverkare.</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T13:20:33+02:00">2023-10-13 13:20</time></p>
+<a href="/2023/10/allvarlig-sarbarhet-i-linuxkomponent">
+<h3>Allvarlig sårbarhet i Linuxkomponent (uppdaterad 2023-10-13)</h3>
+  En buffertöverskridning i ld.so, som är en del av GNU C Library (glibc), har upptäckts. Ett lyckat utnyttjande möjliggör för en angripare att tillskansa sig root-rättigheter. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-13T10:43:34+02:00">2023-10-13 10:43</time></p>
+<a href="/2023/10/juniper-networks-rattar-flera-allvarliga-sarbarheter">
+<h3>Juniper Networks rättar flera allvarliga sårbarheter</h3>
+  I samband med patchtisdag rättade Juniper Networks ett 30-tal sårbarheter i Junos OS. Nio av sårbarheterna är klassade som allvarliga och flera av dem kan leda till instabilitet i systemet eller otillgänlighet. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-12T15:47:00+02:00">2023-10-12 15:47</time></p>
+<a href="/2023/10/f5-networks-rattar-kritisk-sarbarhet-i-big-ip">
+<h3>F5 Networks rättar kritisk sårbarhet i BIG-IP</h3>
+  Som en del av sina månatliga säkerhetsuppdateringar för oktober, rättar F5 Networks en sårbarhet i BIG-IP som under vissa förutsättningar är kritisk. [1]</a>
+</article>
+
+<article class="hdivider">
+<p class="news_date"><time datetime="2023-10-12T10:56:56+02:00">2023-10-12 10:56</time></p>
+<a href="/2023/10/kritisk-0-day-sarbarhet-i-confluence-utnyttjas-aktivt">
+<h3>Kritisk 0-day-sårbarhet i Confluence utnyttjas aktivt (uppdaterad 2023-10-12)</h3>
+  Atlassian har tillkännagett en kritisk sårbarhet i Confluence Data Center och Server, som har tilldelats högsta CVSS-klassificering 10.0.</a>
+</article>
+
+<div id="subscribe">Prenumerera på <a href="/feed.rss">RSS</a>/<a href="/feed.atom">Atom</a></div>
+</aside>
+
+
+    </div>
+   
+    <footer id="pagefooter" class="shadow">        
+	    <div id="page_footer_info">
+            <address>
+                CERT-SE<br />
+		Telefon: <a href="tel:+46-10-2404040">010-240 40 40</a><br />
+                alt. <a href="tel:+46-8-6785799">08-678 57 99</a><br />
+                Presstjänst: <a href="tel:+46-10-2404444">010-240 44 44</a><br />
+                E-post: <a href="mailto:cert@cert.se">cert@cert.se</a> - <a href="https://www.cert.se/cert_at_cert.se.asc">PGP-nyckel</a><br /> 
+            </address>
+        </div>
+        <div id="page_footer_logos" class="divider">
+                <img src="/static/img/logos.png" alt="[FiRST][TI]" />
+        </div>
+    </footer>
+
+    
+<!--[if lt IE 8]>
+<script>
+    document.getElementById('gotIE6').style.display = "block";
+</script>
+<![endif]-->
+
+
+<script src="/static/js/general.js?d60b3a7e"></script>
+
+
+ 
+
+</body>
+</html>
